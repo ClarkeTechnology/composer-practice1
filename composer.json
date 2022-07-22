@@ -1,0 +1,21 @@
+{
+    "name": "clarketechnology/composer-practice1",
+    "description": "A practice library for learning purposes - please ignore",
+    "type": "library",
+    "require": {
+        "php": ">= 7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clarketechnology\\ComposerPractice1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gary Clarke",
+            "email": "clarketechnologyltd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
